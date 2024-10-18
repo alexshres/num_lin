@@ -1,4 +1,4 @@
-#include "Matrix.h"
+#include "matrix.h"
 
 Matrix::Matrix(int rows, int cols): data(rows, std::vector<double>(cols, 0)) {}
 
