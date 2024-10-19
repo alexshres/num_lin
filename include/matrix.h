@@ -6,7 +6,7 @@
 
 class Matrix {
     private:
-        std::vector<std::vector<double>> data;
+        std::vector<std::vector<double>> da
 
     public:
         Matrix(int rows, int cols);
